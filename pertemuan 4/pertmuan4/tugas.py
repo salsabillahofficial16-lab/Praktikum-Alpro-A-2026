@@ -79,7 +79,7 @@ while True:
 print(f"""=== DATA PESERTA ===
 nama   : {nama}
 umur   : {umur}
-Email  : {emaill}
+email  : {emaill}
 nomorhp  : {nomorhpp}
 Status : TERDAFTAR""")
 
